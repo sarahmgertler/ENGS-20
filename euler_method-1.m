@@ -1,4 +1,4 @@
-% NOTE: THIS FILE GOES WITH GERTLER-LA-3
+% NOTE: THIS FILE GOES WITH GERTLER-LA-3 AND EULER-METHOD
 function euler_method(x0, xn, h, choice)
 % This function plots a function y' = f(x,y) using the Euler method
 % This function loops through the h-vector input by user and for each step
