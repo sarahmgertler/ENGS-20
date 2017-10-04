@@ -1,5 +1,5 @@
 % SARAH GERTLER ENGS 20 LA3
-% This is the main script file that calls euler_method and user_input
+% NOTE: This is the main script file that calls euler_method and user_input
 % Make side by side plots of equations 1 and 2 with parameters set by the
 % user, as many times as the user wants.
 
