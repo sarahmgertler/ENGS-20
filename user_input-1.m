@@ -1,4 +1,4 @@
-% NOTE: this file goes with Gertler-LA-3
+% NOTE: this file goes with Gertler-LA-3 and euler-method
 
 function [x0, xn, h] = user_input
 % This function prompts user for starting x position, ending x position,
