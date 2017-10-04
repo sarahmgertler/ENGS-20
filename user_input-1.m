@@ -1,3 +1,5 @@
+% NOTE: this file goes with Gertler-LA-3
+
 function [x0, xn, h] = user_input
 % This function prompts user for starting x position, ending x position,
 % and vector of h (step) values.
